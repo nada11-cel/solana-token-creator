@@ -1,0 +1,45 @@
+{
+  "name": "solana-token-creator",
+  "version": "1.2.0",
+  "description": "Create and deploy SPL tokens on Solana blockchain with custom metadata",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "build": "npm run start",
+    "postinstall": "node src/lib/setup.js"
+  },
+  "keywords": [
+    "solana",
+    "token",
+    "spl",
+    "blockchain",
+    "crypto",
+    "web3",
+    "mint",
+    "create",
+    "metaplex"
+  ],
+  "author": "SolanaDevTools <dev@solanatools.io>",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.87.6",
+    "@solana/spl-token": "^0.3.9",
+    "@metaplex-foundation/js": "^0.19.5",
+    "dotenv": "^16.3.1",
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.6",
+    "ora": "^5.4.1",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/solana-dev-tools/token-creator"
+  }
+}
